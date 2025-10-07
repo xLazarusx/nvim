@@ -1,0 +1,5 @@
+hello, this is a test for registers and many things more. I read the docs of nvim and test the functionality here. 
+hello, this is a test for registers and many things more. I read the docs of nvim and test the functionality here.
+hello, this is a test for registers and many things more. I read the docs of nvim and test the functionality here.
+
+test
